@@ -1,0 +1,80 @@
+radar
+ 1st Round
+   >>d>>.>>urtier>
+   >>d>>.>>Reload>
+   >>d>>.>>JaKaZc>
+   >>d>>.>>r3vers>
+       zeroPoint! potter was killed by d.r3vers's MP40 (11:47)
+       zeroPoint! rapture was blasted by d.r3vers's support fire (11:44)
+       zeroPoint! darky was blasted by d.r3vers's support fire (11:44)
+       zeroPoint! rapture was killed by d.r3vers's rifle grenade (10:50)
+       zeroPoint! keran was killed by d.r3vers's K43 (10:49)
+       zeroPoint! darky was killed by d.r3vers's Luger 9mm (10:47)
+       zeroPoint! gifty was killed by d.r3vers's Luger 9mm (10:46)
+   >>d>>.>>senji>
+       zeroPoint! gifty was killed by d.senji's MP40 (1:32)
+       zeroPoint! darky was killed by d.senji's MP40 (1:30)
+       zeroPoint! Hatred was killed by d.senji's Luger 9mm (1:27)
+   >>d>>.>>Night >>:>>o>
+       zeroPoint! gifty was killed by d.Night :o's MP40 (8:56)
+       zeroPoint! keran was killed by d.Night :o's MP40 (8:54)
+       zeroPoint! potter was killed by d.Night :o's MP40 (8:52)
+   >>zeroPoint>>! >>keran>
+   >>zeroPoint>>!>> potter>
+   >>zeroPoint>>! >>Hatred>
+   >>zeroPoint>>!>> gifty>
+   >>zeroPoint>>! >>darky>
+       d.urtier was exploded by zeroPoint! darky's grenade (9:07)
+       d.senji was killed by zeroPoint! darky's Thompson (9:05)
+       d.r3vers was killed by zeroPoint! darky's Thompson (9:02)
+   >>zeroPoint>>!>> rapture>
+ 2nd Round
+   >>d>>.>>urtier>
+   >>d>>.>>Reload>
+   >>d>>.>>JaKaZc>
+   >>d>>.>>r3vers>
+   >>d>>.>>senji>
+   >>d>>.>>Night >>:>>o>
+   >>zeroPoint>>! >>keran>
+   >>zeroPoint>>!>> potter>
+   >>zeroPoint>>! >>Hatred>
+   >>zeroPoint>>!>> gifty>
+   >>zeroPoint>>! >>darky>
+   >>zeroPoint>>!>> rapture>
+sw_goldrush_te
+ 1st Round
+   >>d>>.>>urtier>
+   >>d>>.>>Reload>
+   >>d>>.>>JaKaZc>
+   >>d>>.>>r3vers>
+   >>d>>.>>senji>
+   >>d>>.>>Night >>:>>o>
+   >>zeroPoint>>! >>keran>
+   >>zeroPoint>>!>> potter>
+   >>zeroPoint>>! >>Hatred>
+   >>zeroPoint>>!>> gifty>
+   >>zeroPoint>>! >>darky>
+   >>zeroPoint>>!>> rapture>
+ 2nd Round
+   >>d>>.>>urtier>
+   >>d>>.>>Reload>
+       zeroPoint! gifty was killed by d.Reload's Thompson (4:47)
+       zeroPoint! potter was killed by d.Reload's Thompson (4:43)
+       zeroPoint! darky was killed by d.Reload's Thompson (4:41)
+   >>d>>.>>JaKaZc>
+       zeroPoint! potter was killed by d.JaKaZc's MP40 (2:42)
+       zeroPoint! darky was killed by d.JaKaZc's MP40 (2:40)
+       zeroPoint! rapture failed to spot d.JaKaZc's Landmine (2:37)
+   >>d>>.>>r3vers>
+   >>d>>.>>senji>
+       zeroPoint! Hatred was killed by d.senji's MP40 (3:44)
+       zeroPoint! keran was killed by d.senji's MP40 (3:41)
+       zeroPoint! gifty was killed by d.senji's MP40 (3:41)
+   >>d>>.>>Night >>:>>o>
+   >>zeroPoint>>! >>keran>
+   >>zeroPoint>>!>> potter>
+   >>zeroPoint>>! >>Hatred>
+   >>zeroPoint>>!>> gifty>
+   >>zeroPoint>>! >>darky>
+   >>zeroPoint>>!>> rapture>
+426
