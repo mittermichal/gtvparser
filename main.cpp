@@ -194,7 +194,9 @@ for (int month=1;month<13;month++)
 								player=strstr(player,"<td class=\"left playername\">");
 								player=strstr(player+1,"<td class=\"left playername\">");
 							}
-							char*players_end=strstr(player,"<tbody class=\"sum\">");
+							char*players_end;
+							if (player) 
+								players_end=strstr(player,"<tbody class=\"sum\">");
 							//players_end=strstr(players_end+1,"</tbody>");
 
 							//find end of players list
