@@ -1,80 +1,939 @@
-radar
- 1st Round
-   >>d>>.>>urtier>
-   >>d>>.>>Reload>
-   >>d>>.>>JaKaZc>
-   >>d>>.>>r3vers>
-       zeroPoint! potter was killed by d.r3vers's MP40 (11:47)
-       zeroPoint! rapture was blasted by d.r3vers's support fire (11:44)
-       zeroPoint! darky was blasted by d.r3vers's support fire (11:44)
-       zeroPoint! rapture was killed by d.r3vers's rifle grenade (10:50)
-       zeroPoint! keran was killed by d.r3vers's K43 (10:49)
-       zeroPoint! darky was killed by d.r3vers's Luger 9mm (10:47)
-       zeroPoint! gifty was killed by d.r3vers's Luger 9mm (10:46)
-   >>d>>.>>senji>
-       zeroPoint! gifty was killed by d.senji's MP40 (1:32)
-       zeroPoint! darky was killed by d.senji's MP40 (1:30)
-       zeroPoint! Hatred was killed by d.senji's Luger 9mm (1:27)
-   >>d>>.>>Night >>:>>o>
-       zeroPoint! gifty was killed by d.Night :o's MP40 (8:56)
-       zeroPoint! keran was killed by d.Night :o's MP40 (8:54)
-       zeroPoint! potter was killed by d.Night :o's MP40 (8:52)
-   >>zeroPoint>>! >>keran>
-   >>zeroPoint>>!>> potter>
-   >>zeroPoint>>! >>Hatred>
-   >>zeroPoint>>!>> gifty>
-   >>zeroPoint>>! >>darky>
-       d.urtier was exploded by zeroPoint! darky's grenade (9:07)
-       d.senji was killed by zeroPoint! darky's Thompson (9:05)
-       d.r3vers was killed by zeroPoint! darky's Thompson (9:02)
-   >>zeroPoint>>!>> rapture>
- 2nd Round
-   >>d>>.>>urtier>
-   >>d>>.>>Reload>
-   >>d>>.>>JaKaZc>
-   >>d>>.>>r3vers>
-   >>d>>.>>senji>
-   >>d>>.>>Night >>:>>o>
-   >>zeroPoint>>! >>keran>
-   >>zeroPoint>>!>> potter>
-   >>zeroPoint>>! >>Hatred>
-   >>zeroPoint>>!>> gifty>
-   >>zeroPoint>>! >>darky>
-   >>zeroPoint>>!>> rapture>
-sw_goldrush_te
- 1st Round
-   >>d>>.>>urtier>
-   >>d>>.>>Reload>
-   >>d>>.>>JaKaZc>
-   >>d>>.>>r3vers>
-   >>d>>.>>senji>
-   >>d>>.>>Night >>:>>o>
-   >>zeroPoint>>! >>keran>
-   >>zeroPoint>>!>> potter>
-   >>zeroPoint>>! >>Hatred>
-   >>zeroPoint>>!>> gifty>
-   >>zeroPoint>>! >>darky>
-   >>zeroPoint>>!>> rapture>
- 2nd Round
-   >>d>>.>>urtier>
-   >>d>>.>>Reload>
-       zeroPoint! gifty was killed by d.Reload's Thompson (4:47)
-       zeroPoint! potter was killed by d.Reload's Thompson (4:43)
-       zeroPoint! darky was killed by d.Reload's Thompson (4:41)
-   >>d>>.>>JaKaZc>
-       zeroPoint! potter was killed by d.JaKaZc's MP40 (2:42)
-       zeroPoint! darky was killed by d.JaKaZc's MP40 (2:40)
-       zeroPoint! rapture failed to spot d.JaKaZc's Landmine (2:37)
-   >>d>>.>>r3vers>
-   >>d>>.>>senji>
-       zeroPoint! Hatred was killed by d.senji's MP40 (3:44)
-       zeroPoint! keran was killed by d.senji's MP40 (3:41)
-       zeroPoint! gifty was killed by d.senji's MP40 (3:41)
-   >>d>>.>>Night >>:>>o>
-   >>zeroPoint>>! >>keran>
-   >>zeroPoint>>!>> potter>
-   >>zeroPoint>>! >>Hatred>
-   >>zeroPoint>>!>> gifty>
-   >>zeroPoint>>! >>darky>
-   >>zeroPoint>>!>> rapture>
-426
+  sw_goldrush_te
+   1st Round
+    >>hi2u >>ksn>
+    >>Abyssian>
+    >>DEADHEAD>
+        n was killed by DEADHEAD's Thompson (5:55)
+        TempuS.kZM was killed by DEADHEAD's Thompson (5:55)
+        beeefbeee was killed by DEADHEAD's Luger 9mm (5:51)
+        beeefbeee was killed by DEADHEAD's MP40 (1:17)
+        TempuS.kZM was killed by DEADHEAD's MP40 (1:15)
+        n was killed by DEADHEAD's MP40 (1:14)
+    >n
+    >>beee>>f>>beee>
+    >>Tempu>>S>>.>>kZM>
+   2nd Round
+    >>hi2u >>ksn>
+    >>Abyssian>
+    >>DEADHEAD>
+        n was killed by DEADHEAD's Thompson (5:02)
+        TempuS.kZM was killed by DEADHEAD's Thompson (5:01)
+        beeefbeee was killed by DEADHEAD's Thompson (5:00)
+    >n
+    >>beee>>f>>beee>
+    >>Tempu>>S>>.>>kZM>
+  braundorf_b4
+   1st Round
+    >>hi2u >>ksn>
+    >>Abyssian>
+    >>DEADHEAD>
+    >n
+    >>beee>>f>>beee>
+    >>Tempu>>S>>.>>kZM>
+   2nd Round
+    >>hi2u >>ksn>
+    >>Abyssian>
+    >>DEADHEAD>
+        n was killed by DEADHEAD's MP40 (3:21)
+        TempuS.kZM was killed by DEADHEAD's MP40 (3:19)
+        n was killed by DEADHEAD's MP40 (3:16)
+        beeefbeee was killed by DEADHEAD's MP40 (3:14)
+    >n
+    >>beee>>f>>beee>
+    >>Tempu>>S>>.>>kZM>
+289
+  supply
+   1st Round
+    >>tG. >>bAstek>
+    >>tG>>.>> mouss>
+    >>tG>>. >>WOPWOP>
+    >>e!>> SkyLine>
+    >>e!>> Baczo>
+    >>e! SMAKUU>>XDDDDDDDDDDDDDDDDDDDDD>
+   2nd Round
+    >>tG. >>bAstek>
+    >>tG>>.>> mouss>
+    >>tG>>. >>WOPWOP>
+    >>e!>> SkyLine>
+    >>e!>> Baczo>
+    >>e! SMAKUU>>XDDDDDDDDDDDDDDDDDDDDD>
+  braundorf_b4
+   1st Round
+    >>tG. >>bAstek>
+    >>tG>>.>> mouss>
+    >>tG>>. >>WOPWOP>
+    >>e!>> SkyLine>
+    >>e!>> Baczo>
+    >>e! SMAKUU>>XDDDDDDDDDDDDDDDDDDDDD>
+   2nd Round
+    >>tG. >>bAstek>
+    >>tG>>.>> mouss>
+    >>tG>>. >>WOPWOP>
+    >>e!>> SkyLine>
+    >>e!>> Baczo>
+    >>e! SMAKUU>>XDDDDDDDDDDDDDDDDDDDDD>
+        tG. mouss was killed by e! SMAKUUXDDDDDDDDDDDDDDDDDDDDD's MP40 (6:11)
+        tG. bAstek was killed by e! SMAKUUXDDDDDDDDDDDDDDDDDDDDD's Luger 9mm (6:07)
+        tG. mouss was killed by e! SMAKUUXDDDDDDDDDDDDDDDDDDDDD's Luger 9mm (6:03)
+331
+  sw_goldrush_te
+   1st Round
+    >>echelo>>N>>.>>Snatix>>!>
+    >>echelo>>N>>.>>Elviss>>!>
+    >>POLAR>>BEERS >>gEFFi>
+    >>POLAR>>BEERS >>BALBO-O-RAMA>
+        echeloN.Aquila! was killed by POLARBEERS BALBO-O-RAMA's MP40 (10:15)
+        echeloN.Snatix! was killed by POLARBEERS BALBO-O-RAMA's MP40 (10:14)
+        echeloN.Elviss! was killed by POLARBEERS BALBO-O-RAMA's MP40 (10:12)
+    >>POLAR>>BEERS >>Webe>
+    >>echelo>>N>>.>>Aquila!>
+   2nd Round
+    >>echelo>>N>>.>>Snatix>>!>
+    >>echelo>>N>>.>>Elviss>>!>
+    >>Metsu>
+    >>POLAR>>BEERS >>gEFFi>
+    >>POLAR>>BEERS >>BALBO-O-RAMA>
+    >>POLAR>>BEERS >>Webe>
+  supply
+   1st Round
+    >>echelo>>N>>.>>Snatix>>!>
+    >>echelo>>N>>.>>Elviss>>!>
+    >>Metsu>
+    >>POLAR>>BEERS >>gEFFi>
+    >>POLAR>>BEERS >>BALBO-O-RAMA>
+    >>POLAR>>BEERS >>Webe>
+   2nd Round
+    >>echelo>>N>>.>>Snatix>>!>
+    >>echelo>>N>>.>>Elviss>>!>
+        POLARBEERS BALBO-O-RAMA was killed by echeloN.Elviss!'s Thompson (11:48)
+        POLARBEERS gEFFi was killed by echeloN.Elviss!'s Thompson (11:47)
+        POLARBEERS Webe was killed by echeloN.Elviss!'s Thompson (11:44)
+    >>Metsu>
+    >>POLAR>>BEERS >>gEFFi>
+    >>POLAR>>BEERS >>BALBO-O-RAMA>
+    >>POLAR>>BEERS >>Webe>
+378
+  supply
+   1st Round
+    >>e!>> SkyLine>
+    >>e!>> Baczo>
+    >>e! SMAKUU>>XDDDDDDDDDDDDDDDDDDDDD>
+    >>OR>>'>>Testi>
+    >>OR>>'>>wEZEP>
+    >>OR>>'>>jiewie>
+   2nd Round
+    >>e!>> SkyLine>
+    >>e!>> Baczo>
+    >>e! SMAKUU>>XDDDDDDDDDDDDDDDDDDDDD>
+    >>OR>>'>>Testi>
+    >>OR>>'>>wEZEP>
+    >>OR>>'>>jiewie>
+  et_beach
+   1st Round
+    >>e!>> SkyLine>
+    >>e!>> Baczo>
+    >>e! SMAKUU>>XDDDDDDDDDDDDDDDDDDDDD>
+    >>OR>>'>>Testi>
+    >>OR>>'>>wEZEP>
+    >>OR>>'>>jiewie>
+   2nd Round
+    >>e!>> SkyLine>
+    >>e!>> Baczo>
+    >>e! SMAKUU>>XDDDDDDDDDDDDDDDDDDDDD>
+    >>OR>>'>>Testi>
+    >>OR>>'>>wEZEP>
+    >>OR>>'>>jiewie>
+230
+  sw_goldrush_te
+   1st Round
+    >>TOTAL>>.>>bAstek>
+    >>TOTAL>>.>>fAKS>
+    >>TOTAL>>.>>seareal>
+    >>echelo>>N>>.>>Metsu>
+    >>echelo>>N>>.>>Elviss>>!>
+    >>echelo>>N.Excite>
+   1st Round
+    >>TOTAL>>.>>bAstek>
+    >>TOTAL>>.>>fAKS>
+    >>TOTAL>>.>>seareal>
+    >>echelo>>N>>.>>Metsu>
+    >>echelo>>N>>.>>Elviss>>!>
+    >>echelo>>N.Excite>
+  sp_delivery_te
+   1st Round
+    >>TOTAL>>.>>bAstek>
+    >>TOTAL>>.>>fAKS>
+    >>TOTAL>>.>>seareal>
+    >>echelo>>N>>.>>Metsu>
+    >>echelo>>N>>.>>Elviss>>!>
+    >>echelo>>N.Excite>
+248
+  et_ice
+   1st Round
+    >>e!>> SkyLine>
+    >>e!>> Baczo>
+    >>e! SMAKUU>>XDDDDDDDDDDDDDDDDDDDDD>
+    >>g>>M>>en>>.timbolina>
+    >>g>>M>>en >>PIROUETTEKAKAOUETTE>
+    >>g>>M>^Ben>. >>PARANOIJJAA>
+   2nd Round
+    >>e!>> SkyLine>
+    >>e!>> Baczo>
+    >>e! SMAKUU>>XDDDDDDDDDDDDDDDDDDDDD>
+    >>g>>M>>en>>.timbolina>
+    >>g>>M>>en >>PIROUETTEKAKAOUETTE>
+    >>g>>M>^Ben>. >>PARANOIJJAA>
+        gMen. PARANOIJJAA was killed by e! SkyLine's Thompson (1:45)
+        gMen.timbolina was killed by e! SkyLine's Thompson (1:45)
+        gMen PIROUETTEKAKAOUETTE was killed by e! SkyLine's .45ACP 1911 (1:41)
+  sw_goldrush_te
+   1st Round
+    >>e!>> SkyLine>
+        gMen. PARANOIJJAA was killed by e! SkyLine's Thompson (1:45)
+        gMen.timbolina was killed by e! SkyLine's Thompson (1:45)
+        gMen PIROUETTEKAKAOUETTE was killed by e! SkyLine's .45ACP 1911 (1:41)
+    >>e!>> Baczo>
+    >>e! SMAKUU>>XDDDDDDDDDDDDDDDDDDDDD>
+    >>g>>M>>en>>.timbolina>
+    >>g>>M>>en >>PIROUETTEKAKAOUETTE>
+    >>g>>M>^Ben>. >>PARANOIJJAA>
+   2nd Round
+    >>e!>> SkyLine>
+    >>e!>> Baczo>
+    >>e! SMAKUU>>XDDDDDDDDDDDDDDDDDDDDD>
+    >>g>>M>>en>>.timbolina>
+    >>g>>M>>en >>PIROUETTEKAKAOUETTE>
+    >>g>>M>^Ben>. >>PARANOIJJAA>
+  sp_delivery_te
+   1st Round
+    >>e!>> SkyLine>
+    >>e!>> Baczo>
+    >>e! SMAKUU>>XDDDDDDDDDDDDDDDDDDDDD>
+    >>g>>M>>en>>.timbolina>
+    >>g>>M>>en >>PIROUETTEKAKAOUETTE>
+    >>g>>M>^Ben>. >>PARANOIJJAA>
+   2nd Round
+    >>e!>> SkyLine>
+    >>e!>> Baczo>
+    >>e! SMAKUU>>XDDDDDDDDDDDDDDDDDDDDD>
+    >>g>>M>>en>>.timbolina>
+    >>g>>M>>en >>PIROUETTEKAKAOUETTE>
+    >>g>>M>^Ben>. >>PARANOIJJAA>
+319
+  supply
+   1st Round
+    >>miJJAaa>>:>>exe>
+    >>drekavac>>:>>exe>
+    >>Kwiz>>:>>exe>
+    >>oufu>>_>>xbz>
+    >>oufu>>_>>luna>
+    >>oufu>>_>>elt>
+   2nd Round
+    >>miJJAaa>>:>>exe>
+    >>drekavac>>:>>exe>
+    >>Kwiz>>:>>exe>
+    >>oufu>>_>>xbz>
+    >>oufu>>_>>luna>
+    >>oufu>>_>>elt>
+  et_ice
+   1st Round
+    >>miJJAaa>>:>>exe>
+    >>drekavac>>:>>exe>
+    >>Kwiz>>:>>exe>
+    >>oufu>>_>>xbz>
+    >>oufu>>_>>luna>
+    >>oufu>>_>>elt>
+225
+  adlernest
+   1st Round
+    >>kettutytot>>HEVIMIES>>&amp;>>SERMALOT>
+        drekavac:exe was killed by kettutytotHEVIMIES&amp;SERMALOT's MP40 (3:38)
+        Kwiz:exe was killed by kettutytotHEVIMIES&amp;SERMALOT's MP40 (3:35)
+        M1TJA:exe was killed by kettutytotHEVIMIES&amp;SERMALOT's Luger 9mm (3:32)
+    >>ZeBji>>.>
+    >>kettutytot>>KEPPUNE>
+    >>drekavac>>:>>exe>
+    >>M1TJA>>:>>exe>
+    >>Kwiz>>:>>exe>
+   2nd Round
+    >>kettutytot>>HEVIMIES>>&amp;>>SERMALOT>
+    >>ZeBji>>.>
+    >>kettutytot>>KEPPUNE>
+    >>drekavac>>:>>exe>
+    >>M1TJA>>:>>exe>
+    >>Kwiz>>:>>exe>
+  sw_goldrush_te
+   1st Round
+    >>kettutytot>>HEVIMIES>>&amp;>>SERMALOT>
+    >>ZeBji>>.>
+    >>kettutytot>>KEPPUNE>
+    >>drekavac>>:>>exe>
+    >>M1TJA>>:>>exe>
+    >>Kwiz>>:>>exe>
+   2nd Round
+    >>kettutytot>>HEVIMIES>>&amp;>>SERMALOT>
+    >>ZeBji>>.>
+    >>kettutytot>>KEPPUNE>
+    >>drekavac>>:>>exe>
+    >>M1TJA>>:>>exe>
+    >>Kwiz>>:>>exe>
+217
+  sw_goldrush_te
+   1st Round
+    >>e!>> SkyLine>
+        v&amp;v SnaCki was killed by e! SkyLine's Thompson (2:39)
+        v&amp;v Voodoo was killed by e! SkyLine's Thompson (2:36)
+        v&amp;v Szyna was killed by e! SkyLine's Luger 9mm (2:33)
+    >>e! SMAKUU>>XDDDDDDDDDDDDDDDDDDDDD>
+    >>e!>> Baczo>
+    >>v>>&amp;>>v Szyna>
+    >>v>>&amp;>>v SnaCki>
+    >>v>>&amp;>>v Voodoo>
+   2nd Round
+    >>e!>> SkyLine>
+    >>e! SMAKUU>>XDDDDDDDDDDDDDDDDDDDDD>
+    >>e!>> Baczo>
+    >>v>>&amp;>>v Szyna>
+    >>v>>&amp;>>v SnaCki>
+    >>v>>&amp;>>v Voodoo>
+  supply
+   1st Round
+    >>e!>> SkyLine>
+    >>e! >>bAstek>
+        v&amp;v Voodoo was killed by e! bAstek's MP40 (3:20)
+        v&amp;v Szyna was killed by e! bAstek's MP40 (3:18)
+        v&amp;v SnaCki was killed by e! bAstek's MP40 (3:16)
+    >>e! SMAKUU>>XDDDDDDDDDDDDDDDDDDDDD>
+    >>e!>> Baczo>
+        v&amp;v SnaCki was killed by e! Baczo's MP40 (4:17)
+        v&amp;v Szyna was killed by e! Baczo's MP40 (4:15)
+        v&amp;v Voodoo was killed by e! Baczo's MP40 (4:13)
+    >>v>>&amp;>>v Szyna>
+    >>v>>&amp;>>v SnaCki>
+    >>v>>&amp;>>v Voodoo>
+   2nd Round
+    >>e!>> SkyLine>
+       v&amp;v Voodoo was killed by e! SkyLine's Thompson (2:20)
+       v&amp;v Szyna was killed by e! SkyLine's Thompson (2:18)
+       v&amp;v SnaCki was killed by e! SkyLine's Thompson (2:14)
+    >>e! >>bAstek>
+    >>e! SMAKUU>>XDDDDDDDDDDDDDDDDDDDDD>
+    >>e!>> Baczo>
+    >>v>>&amp;>>v Szyna>
+    >>v>>&amp;>>v Voodoo>
+366
+  frostbite
+   1st Round
+    >>kettutytot>>HEVIMIES>>&amp;>>SERMALOT>
+    >>kettutytot>>KEPPUNE>
+    >>shit>>olas>
+    >>WuT>>happens>
+   2nd Round
+    >>kettutytot>>HEVIMIES>>&amp;>>SERMALOT>
+    >>kettutytot>>KEPPUNE>
+    >>shit>>olas>
+    >>WuT>>happens>
+  adlernest
+   1st Round
+    >>kettutytot>>HEVIMIES>>&amp;>>SERMALOT>
+    >>kettutytot>>KEPPUNE>
+    >>shit>>olas>
+    >>WuT>>happens>
+   2nd Round
+    >>kettutytot>>HEVIMIES>>&amp;>>SERMALOT>
+    >>kettutytot>>KEPPUNE>
+    >>shit>>olas>
+    >>WuT>>happens>
+56
+  et_ice
+   1st Round
+    >>drekavac>>:>>exe>
+    >>Kwiz>>:>>exe>
+    >>M1TJA>>:>>exe>
+    >>&gt;>>&gt;>>&gt;>> wassab>
+    >>&gt;>>&gt;>>&gt; >>Arnold>
+    >>&gt;&gt;&gt; >>ZaraLarsson>
+   5th Round
+    >>drekavac>>:>>exe>
+    >>Kwiz>>:>>exe>
+    >>M1TJA>>:>>exe>
+    >>&gt;>>&gt;>>&gt;>> wassab>
+    >>&gt;>>&gt;>>&gt; >>Arnold>
+    >>&gt;&gt;&gt; >>ZaraLarsson>
+  braundorf_b4
+   1st Round
+    >>drekavac>>:>>exe>
+    >>Kwiz>>:>>exe>
+    >>M1TJA>>:>>exe>
+    >>&gt;>>&gt;>>&gt;>> wassab>
+    >>&gt;>>&gt;>>&gt; >>Arnold>
+    >>&gt;&gt;&gt; >>ZaraLarsson>
+   5th Round
+    >>drekavac>>:>>exe>
+    >>Kwiz>>:>>exe>
+    >>M1TJA>>:>>exe>
+    >>&gt;>>&gt;>>&gt;>> wassab>
+    >>&gt;>>&gt;>>&gt; >>Arnold>
+    >>&gt;&gt;&gt; >>ZaraLarsson>
+133
+  supply
+   1st Round
+    >>oufu>>_>>elt>
+        Kwiz:exe was exploded by oufu_elt's grenade (5:53)
+        M1TJA:exe was killed by oufu_elt's MP40 (5:49)
+        Kwiz:exe was killed by oufu_elt's MP40 (5:48)
+    >>oufu>>_>>luna>
+        Kwiz:exe was killed by oufu_luna's MP40 (1:52)
+        drekavac:exe was killed by oufu_luna's MP40 (1:49)
+        Kwiz:exe was killed by oufu_luna's Luger 9mm (1:47)
+    >>oufu>>_>>synce>
+    >>M1TJA>>:>>exe>
+    >>Kwiz>>:>>exe>
+    >>drekavac>>:>>exe>
+   2nd Round
+    >>oufu>>_>>elt>
+    >>oufu>>_>>luna>
+    >>oufu>>_>>synce>
+    >>M1TJA>>:>>exe>
+    >>Kwiz>>:>>exe>
+    >>drekavac>>:>>exe>
+  supply
+   1st Round
+    >>oufu>>_>>elt>
+    >>oufu>>_>>luna>
+    >>oufu>>_>>synce>
+    >>M1TJA>>:>>exe>
+    >>Kwiz>>:>>exe>
+       oufu_luna was shelled by Kwiz:exe's artillery support (5:29)
+       oufu_synce was shelled by Kwiz:exe's artillery support (5:25)
+       oufu_elt was shelled by Kwiz:exe's artillery support (5:23)
+    >>drekavac>>:>>exe>
+   2nd Round
+    >>oufu>>_>>elt>
+    >>oufu>>_>>luna>
+    >>oufu>>_>>synce>
+    >>M1TJA>>:>>exe>
+    >>Kwiz>>:>>exe>
+    >>drekavac>>:>>exe>
+303
+  adlernest
+   1st Round
+    >>POLAR>>BEERS >>BALB_o>
+    >>POLARBEERS >>IGOR>
+    >^MPOLAR>BEERS >>WeBe>
+    >^SSSTAT >FRANCAIS>
+    >>SSTAT >>late>
+    >>SSTAT >>abbadabba>
+   2nd Round
+    >>POLAR>>BEERS >>BALB_o>
+    >>POLARBEERS >>IGOR>
+    >^MPOLAR>BEERS >>WeBe>
+    >^SSSTAT >FRANCAIS>
+    >>SSTAT >>late>
+    >>SSTAT >>abbadabba>
+        POLARBEERS BALB_o was killed by SSTAT abbadabba's MP40 (1:40)
+        POLARBEERS WeBe was killed by SSTAT abbadabba's MP40 (1:39)
+        POLARBEERS IGOR was killed by SSTAT abbadabba's Luger 9mm (1:35)
+  supply
+   1st Round
+    >>POLAR>>BEERS >>BALB_o>
+    >>POLARBEERS >>IGOR>
+    >^MPOLAR>BEERS >>WeBe>
+    >^SSSTAT >FRANCAIS>
+    >>SSTAT >>late>
+    >>SSTAT >>abbadabba>
+   2nd Round
+    >>POLAR>>BEERS >>BALB_o>
+    >>POLARBEERS >>IGOR>
+    >^MPOLAR>BEERS >>WeBe>
+    >^SSSTAT >FRANCAIS>
+    >>SSTAT >>late>
+    >>SSTAT >>abbadabba>
+205
+  supply
+   1st Round
+    >>erase >>dtectorororo>
+    >>erase >>Element>
+        oufu_crazyRIFLEskillsLOL was killed by erase Element's MP40 (13:49)
+        oufu_elliot failed to spot erase Element's Landmine (13:49)
+        oufu_xbz was killed by erase Element's MP40 (13:45)
+    >>erase >>niPsu>
+    >>erase >>vANQ>
+    >eA R.Koothrappali
+        oufu_elliot was killed by eA R.Koothrappali's K43 (11:38)
+        oufu_cure was killed by eA R.Koothrappali's K43 (11:36)
+        oufu_luna was killed by eA R.Koothrappali's Luger 9mm (11:34)
+    >>erase >>esSe>
+    >>oufu>>_>>luna>
+    >>oufu>>_>>elliot>
+    >>oufu>>_>>xbz>
+    >>oufu>>_>>cure>
+    >>oufu>>_>>crazyRIFLEskillsLOL>
+    >>oufu>>_>>synce>
+   2nd Round
+    >>erase >>dtectorororo>
+        oufu_xbz was killed by erase dtectorororo's Sten (8:49)
+        oufu_crazyRIFLEskillsLOL was killed by erase dtectorororo's Sten (8:47)
+        oufu_synce was killed by erase dtectorororo's Sten (8:46)
+        oufu_luna was killed by erase dtectorororo's Sten (8:42)
+    >>erase >>Element>
+        oufu_cure was blasted by erase Element's Panzerfaust (9:24)
+        oufu_crazyRIFLEskillsLOL was blasted by erase Element's Panzerfaust (9:24)
+        oufu_synce was blasted by erase Element's Panzerfaust (9:24)
+    >>erase >>niPsu>
+    >>erase >>vANQ>
+    >eA R.Koothrappali
+        oufu_crazyRIFLEskillsLOL was killed by eA R.Koothrappali's rifle grenade (6:02)
+        oufu_cure was killed by eA R.Koothrappali's rifle grenade (5:58)
+        oufu_crazyRIFLEskillsLOL was killed by eA R.Koothrappali's Garand (5:55)
+    >>erase >>esSe>
+    >>oufu>>_>>luna>
+    >>oufu>>_>>elliot>
+    >>oufu>>_>>xbz>
+    >>oufu>>_>>cure>
+    >>oufu>>_>>crazyRIFLEskillsLOL>
+    >>oufu>>_>>synce>
+  radar
+   1st Round
+    >>erase >>dtectorororo>
+    >>erase >>Element>
+    >>erase >>niPsu>
+        oufu_xbz was killed by erase niPsu's Thompson (10:38)
+        oufu_synce was killed by erase niPsu's Thompson (10:36)
+        oufu_xbz was killed by erase niPsu's .45ACP 1911 (10:34)
+    >>erase >>vANQ>
+    >eA R.Koothrappali
+       oufu_elliot was mown down by eA R.Koothrappali's Mobile MG42 (6:59)
+       oufu_crazyRIFLEskillsLOL was mown down by eA R.Koothrappali's Mobile MG42 (6:57)
+       oufu_xbz was mown down by eA R.Koothrappali's Mobile MG42 (6:55)
+    >>erase >>esSe>
+    >>oufu>>_>>luna>
+    >>oufu>>_>>elliot>
+    >>oufu>>_>>xbz>
+    >>oufu>>_>>cure>
+    >>oufu>>_>>crazyRIFLEskillsLOL>
+    >>oufu>>_>>synce>
+   2nd Round
+    >>erase >>dtectorororo>
+    >>erase >>Element>
+        oufu_luna was killed by erase Element's MP40 (4:35)
+        oufu_synce was killed by erase Element's MP40 (4:34)
+        oufu_crazyRIFLEskillsLOL was killed by erase Element's MP40 (4:32)
+    >>erase >>niPsu>
+    >>erase >>vANQ>
+    >eA R.Koothrappali
+        oufu_cure was killed by eA R.Koothrappali's rifle grenade (3:22)
+        oufu_crazyRIFLEskillsLOL was killed by eA R.Koothrappali's K43 (3:19)
+        oufu_synce was killed by eA R.Koothrappali's K43 (3:18)
+    >>erase >>esSe>
+    >>oufu>>_>>luna>
+    >>oufu>>_>>elliot>
+    >>oufu>>_>>xbz>
+    >>oufu>>_>>cure>
+    >>oufu>>_>>crazyRIFLEskillsLOL>
+    >>oufu>>_>>synce>
+473
+  sp_delivery_te
+   1st Round
+    >>M1TJA>>:>>exe>
+    >>Kwiz>>:>>exe>
+    >low:exe
+    >Nrv>.>
+    >RnX>.>
+        M1TJA:exe was killed by RnX.'s MP40 (8:00)
+        Kwiz:exe was killed by RnX.'s MP40 (7:57)
+        low:exe was killed by RnX.'s Luger 9mm (7:53)
+    >mph>. ALLO QUOI?>
+        M1TJA:exe was killed by mph. ALLO QUOI?'s Luger 9mm (5:33)
+        Kwiz:exe was killed by mph. ALLO QUOI?'s Luger 9mm (5:30)
+        M1TJA:exe was killed by mph. ALLO QUOI?'s Luger 9mm (5:27)
+   2nd Round
+    >>M1TJA>>:>>exe>
+    >>Kwiz>>:>>exe>
+    >low:exe
+    >Nrv>.>
+    >RnX>.>
+    >mph>. ALLO QUOI?>
+  supply
+   1st Round
+    >>M1TJA>>:>>exe>
+    >>Kwiz>>:>>exe>
+        mph. ALLO QUOI? was killed by Kwiz:exe's Thompson (7:42)
+        Nrv. was killed by Kwiz:exe's Thompson (7:40)
+        RnX. was killed by Kwiz:exe's Thompson (7:39)
+    >low:exe
+    >Nrv>.>
+    >RnX>.>
+    >mph>. ALLO QUOI?>
+   2nd Round
+    >>M1TJA>>:>>exe>
+    >>Kwiz>>:>>exe>
+    >low:exe
+        RnX. was exploded by low:exe's grenade (8:03)
+        mph. ALLO QUOI? was exploded by low:exe's grenade (8:03)
+        Nrv. was exploded by low:exe's grenade (8:03)
+    >Nrv>.>
+    >RnX>.>
+    >mph>. ALLO QUOI?>
+  frostbite
+   1st Round
+    >>M1TJA>>:>>exe>
+    >>Kwiz>>:>>exe>
+    >low:exe
+    >Nrv>.>
+    >RnX>.>
+    >mph>. ALLO QUOI?>
+   2nd Round
+    >>M1TJA>>:>>exe>
+    >>Kwiz>>:>>exe>
+    >low:exe
+    >Nrv>.>
+    >RnX>.>
+    >mph>. ALLO QUOI?>
+353
+  sw_goldrush_te
+   1st Round
+    >>fin>>|>>squalli>
+    >>fin>>|>>crittie>
+    >>fin>>|>>vokki>
+    >>fin>>|>>HIRVI>
+    >>fin>>|>>Stuka>
+    >>fin>>|>>Swanidius>
+         YENCH FROM EE was killed by fin|Swanidius's Thompson (7:08)
+        MCLEOd FROM EE was killed by fin|Swanidius's Thompson (7:07)
+         SINNU FROM EE was killed by fin|Swanidius's Thompson (7:04)
+    >> YENCH >>FROM >>EE>
+    >>MCLEOd >>FROM >>EE>
+    >>FREEZE >>FROM >>EE>
+        fin|Swanidius was exploded by FREEZE FROM EE's grenade (7:37)
+        fin|Stuka was killed by FREEZE FROM EE's MP40 (7:33)
+        fin|HIRVI was killed by FREEZE FROM EE's MP40 (7:30)
+    >>  NAIT >>FROM >>EE>
+    >> SUBBI >>FROM >>EE>
+        fin|HIRVI was killed by  SUBBI FROM EE's MP40 (14:07)
+        fin|Swanidius was killed by  SUBBI FROM EE's MP40 (14:07)
+        fin|Stuka was killed by  SUBBI FROM EE's MP40 (14:05)
+    >> SINNU >>FROM >>EE>
+   2nd Round
+    >>fin>>|>>squalli>
+         YENCH FROM EE was killed by fin|squalli's MP40 (1:52)
+        FREEZE FROM EE was killed by fin|squalli's MP40 (1:51)
+         SUBBI FROM EE was killed by fin|squalli's MP40 (1:49)
+    >>fin>>|>>crittie>
+         SINNU FROM EE was killed by fin|crittie's MP40 (7:00)
+        MCLEOd FROM EE was killed by fin|crittie's MP40 (6:58)
+         SUBBI FROM EE was killed by fin|crittie's MP40 (6:56)
+    >>fin>>|>>vokki>
+    >>fin>>|>>HIRVI>
+    >>fin>>|>>Stuka>
+    >>fin>>|>>Swanidius>
+    >> YENCH >>FROM >>EE>
+        fin|Stuka was killed by  YENCH FROM EE's Thompson (3:51)
+        fin|vokki was killed by  YENCH FROM EE's Thompson (3:47)
+        fin|HIRVI was killed by  YENCH FROM EE's Thompson (3:44)
+    >>MCLEOd >>FROM >>EE>
+    >>FREEZE >>FROM >>EE>
+    >>  NAIT >>FROM >>EE>
+    >> SUBBI >>FROM >>EE>
+    >> SINNU >>FROM >>EE>
+  radar
+   1st Round
+    >>fin>>|>>squalli>
+          NAIT FROM EE was exploded by fin|squalli's grenade (10:22)
+         SINNU FROM EE was killed by fin|squalli's MP40 (10:20)
+          NAIT FROM EE was killed by fin|squalli's MP40 (10:16)
+    >>fin>>|>>crittie>
+    >>fin>>|>>vokki>
+    >>fin>>|>>HIRVI>
+    >>fin>>|>>Stuka>
+    >>fin>>|>>Swanidius>
+    >> YENCH >>FROM >>EE>
+    >>MCLEOd >>FROM >>EE>
+    >>FREEZE >>FROM >>EE>
+    >>  NAIT >>FROM >>EE>
+    >> SUBBI >>FROM >>EE>
+    >> SINNU >>FROM >>EE>
+   2nd Round
+    >>fin>>|>>squalli>
+    >>fin>>|>>crittie>
+    >>fin>>|>>vokki>
+    >>fin>>|>>HIRVI>
+    >>fin>>|>>Stuka>
+       MCLEOd FROM EE was killed by fin|Stuka's Thompson (5:25)
+        SUBBI FROM EE was killed by fin|Stuka's Thompson (5:22)
+       FREEZE FROM EE was killed by fin|Stuka's Thompson (5:20)
+    >>fin>>|>>Swanidius>
+    >> YENCH >>FROM >>EE>
+        fin|squalli failed to spot  YENCH FROM EE's Landmine (7:41)
+        fin|Stuka was killed by  YENCH FROM EE's MP40 (7:38)
+        fin|Swanidius was killed by  YENCH FROM EE's MP40 (7:34)
+    >>MCLEOd >>FROM >>EE>
+    >>FREEZE >>FROM >>EE>
+    >>  NAIT >>FROM >>EE>
+    >> SUBBI >>FROM >>EE>
+    >> SINNU >>FROM >>EE>
+594
+  supply
+   1st Round
+    >>&gt;>>&gt;>> Abj>
+    >>&gt;>>&gt; >>DYRUS>
+        *** Bl4d3 scatWHATaMAN was exploded by &gt;&gt; DYRUS's grenade (12:23)
+        *** KRESTi #edosan was exploded by &gt;&gt; DYRUS's grenade (12:19)
+        *** Bl4d3 scatWHATaMAN was exploded by &gt;&gt; DYRUS's grenade (12:19)
+        *** stownage was killed by &gt;&gt; DYRUS's Garand (12:15)
+    >>&gt;>>&gt; >>Frag>>'>>Stealer>>!>
+    >>&gt;>>&gt; >>zeteMka>
+    >>&gt;>>&gt; >>fanatic >>&lt;3furmi>
+    >>&gt;>>&gt; >>hunter>
+    >>*>>*>>*>> KRESTi >>#>>edosan>
+    >>*>>*>>* >>FLoPJEHZ>
+    >>*>>*>>* >>Bl4d3 >>scatWHATaMAN>
+    >>*>>*>>* >>duKe_ >>:o)))))>
+        &gt;&gt; fanatic &lt;3furmi was exploded by *** duKe_ :o)))))'s grenade (13:20)
+        &gt;&gt; zeteMka failed to spot *** duKe_ :o)))))'s Landmine (13:20)
+        &gt;&gt; hunter was killed by *** duKe_ :o)))))'s MP40 (13:17)
+    >>*>>*>>* >>KevjiN>
+    >>*>>*>>*>> stownage>
+   2nd Round
+    >>&gt;>>&gt;>> Abj>
+    >>&gt;>>&gt; >>DYRUS>
+    >>&gt;>>&gt; >>Frag>>'>>Stealer>>!>
+    >>&gt;>>&gt; >>zeteMka>
+        *** FLoPJEHZ was exploded by &gt;&gt; zeteMka's grenade (11:18)
+        *** Bl4d3 scatWHATaMAN was exploded by &gt;&gt; zeteMka's grenade (11:18)
+        *** KevjiN was killed by &gt;&gt; zeteMka's MP40 (11:17)
+    >>&gt;>>&gt; >>fanatic >>&lt;3furmi>
+    >>&gt;>>&gt; >>hunter>
+    >>*>>*>>*>> KRESTi >>#>>edosan>
+    >>*>>*>>* >>FLoPJEHZ>
+    >>*>>*>>* >>Bl4d3 >>scatWHATaMAN>
+    >>*>>*>>* >>duKe_ >>:o)))))>
+    >>*>>*>>* >>KevjiN>
+    >>*>>*>>*>> stownage>
+  radar
+   1st Round
+    >>&gt;>>&gt;>> Abj>
+    >>&gt;>>&gt; >>DYRUS>
+    >>&gt;>>&gt; >>Frag>>'>>Stealer>>!>
+        *** Bl4d3 scatWHATaMAN was killed by &gt;&gt; Frag'Stealer!'s MP40 (5:49)
+        *** KRESTi #edosan was killed by &gt;&gt; Frag'Stealer!'s MP40 (5:48)
+        *** KevjiN was killed by &gt;&gt; Frag'Stealer!'s MP40 (5:45)
+    >>&gt;>>&gt; >>zeteMka>
+        *** Bl4d3 scatWHATaMAN was shelled by &gt;&gt; zeteMka's artillery support (4:10)
+        *** KRESTi #edosan was shelled by &gt;&gt; zeteMka's artillery support (4:06)
+        *** FLoPJEHZ was killed by &gt;&gt; zeteMka's MP40 (4:05)
+        *** KRESTi #edosan failed to spot &gt;&gt; zeteMka's Landmine (1:04)
+        *** KevjiN failed to spot &gt;&gt; zeteMka's Landmine (1:04)
+        *** stownage was killed by &gt;&gt; zeteMka's MP40 (1:00)
+    >>&gt;>>&gt; >>fanatic >>&lt;3furmi>
+    >>&gt;>>&gt; >>hunter>
+        *** duKe_ :o))))) was killed by &gt;&gt; hunter's MP40 (10:54)
+        *** FLoPJEHZ was killed by &gt;&gt; hunter's MP40 (10:52)
+        *** duKe_ :o))))) was killed by &gt;&gt; hunter's Luger 9mm (10:50)
+    >>*>>*>>*>> KRESTi >>#>>edosan>
+    >>*>>*>>* >>FLoPJEHZ>
+    >>*>>*>>* >>Bl4d3 >>scatWHATaMAN>
+    >>*>>*>>* >>duKe_ >>:o)))))>
+    >>*>>*>>* >>KevjiN>
+    >>*>>*>>*>> stownage>
+   2nd Round
+    >>&gt;>>&gt;>> Abj>
+    >>&gt;>>&gt; >>DYRUS>
+    >>&gt;>>&gt; >>Frag>>'>>Stealer>>!>
+    >>&gt;>>&gt; >>zeteMka>
+    >>&gt;>>&gt; >>fanatic >>&lt;3furmi>
+    >>&gt;>>&gt; >>hunter>
+    >>*>>*>>*>> KRESTi >>#>>edosan>
+    >>*>>*>>* >>FLoPJEHZ>
+        &gt;&gt; hunter was mown down by *** FLoPJEHZ's Mobile MG42 (7:00)
+        &gt;&gt; Frag'Stealer! was mown down by *** FLoPJEHZ's Mobile MG42 (6:57)
+        &gt;&gt; fanatic &lt;3furmi was mown down by *** FLoPJEHZ's Mobile MG42 (6:55)
+    >>*>>*>>* >>Bl4d3 >>scatWHATaMAN>
+    >>*>>*>>* >>duKe_ >>:o)))))>
+    >>*>>*>>* >>KevjiN>
+    >>*>>*>>*>> stownage>
+        &gt;&gt; fanatic &lt;3furmi was killed by *** stownage's MP40 (10:05)
+        &gt;&gt; Abj was killed by *** stownage's MP40 (10:03)
+        &gt;&gt; zeteMka was killed by *** stownage's MP40 (9:59)
+  sw_goldrush_te
+   1st Round
+    >>&gt;>>&gt;>> Abj>
+    >>&gt;>>&gt; >>DYRUS>
+    >>&gt;>>&gt; >>Frag>>'>>Stealer>>!>
+    >>&gt;>>&gt; >>zeteMka>
+    >>&gt;>>&gt; >>fanatic >>&lt;3furmi>
+    >>&gt;>>&gt; >>hunter>
+    >>*>>*>>*>> KRESTi >>#>>edosan>
+    >>*>>*>>* >>FLoPJEHZ>
+        &gt;&gt; fanatic &lt;3furmi was killed by *** FLoPJEHZ's MP40 (13:21)
+        &gt;&gt; DYRUS was killed by *** FLoPJEHZ's MP40 (13:20)
+        &gt;&gt; zeteMka was killed by *** FLoPJEHZ's MP40 (13:16)
+    >>*>>*>>* >>Bl4d3 >>scatWHATaMAN>
+    >>*>>*>>* >>duKe_ >>:o)))))>
+    >>*>>*>>* >>KevjiN>
+    >>*>>*>>*>> stownage>
+   2nd Round
+    >>&gt;>>&gt;>> Abj>
+    >>&gt;>>&gt; >>DYRUS>
+    >>&gt;>>&gt; >>Frag>>'>>Stealer>>!>
+    >>&gt;>>&gt; >>zeteMka>
+        *** KRESTi #edosan was killed by &gt;&gt; zeteMka's MP40 (1:14)
+        *** Bl4d3 scatWHATaMAN was killed by &gt;&gt; zeteMka's MP40 (1:11)
+        *** KevjiN was killed by &gt;&gt; zeteMka's Luger 9mm (1:09)
+        *** stownage was shelled by &gt;&gt; zeteMka's artillery support (0:17)
+        *** KevjiN was shelled by &gt;&gt; zeteMka's artillery support (0:17)
+        *** Bl4d3 scatWHATaMAN was killed by &gt;&gt; zeteMka's MP40 (0:14)
+    >>&gt;>>&gt; >>fanatic >>&lt;3furmi>
+    >>&gt;>>&gt; >>hunter>
+    >>*>>*>>*>> KRESTi >>#>>edosan>
+    >>*>>*>>* >>FLoPJEHZ>
+    >>*>>*>>* >>Bl4d3 >>scatWHATaMAN>
+    >>*>>*>>* >>duKe_ >>:o)))))>
+    >>*>>*>>* >>KevjiN>
+    >>*>>*>>*>> stownage>
+972
+  supply
+   1st Round
+    >>OR>>'>> >>Sleepy>
+    >>OR>>'>> J OU EUR>
+    >>OR>>' >>KARMATIMBO CASTINGZ>
+    >>gMen>>.>>SPELER>
+    >>gMen>>.>>SLEEPER>
+    >>gMen>>.>>SLAPER>
+   2nd Round
+    >>OR>>'>> >>Sleepy>
+    >>OR>>'>> J OU EUR>
+    >>OR>>' >>KARMATIMBO CASTINGZ>
+    >>gMen>>.>>SPELER>
+    >>gMen>>.>>SLEEPER>
+    >>gMen>>.>>SLAPER>
+  et_ice
+   1st Round
+    >>OR>>'>> >>Sleepy>
+    >>OR>>'>> J OU EUR>
+    >>OR>>' >>KARMATIMBO CASTINGZ>
+    >>gMen>>.>>SPELER>
+    >>gMen>>.>>SLEEPER>
+    >>gMen>>.>>SLAPER>
+   2nd Round
+    >>OR>>'>> >>Sleepy>
+    >>OR>>'>> J OU EUR>
+    >>OR>>' >>KARMATIMBO CASTINGZ>
+    >>gMen>>.>>SPELER>
+    >>gMen>>.>>SLEEPER>
+    >>gMen>>.>>SLAPER>
+  braundorf_b4
+   1st Round
+    >>OR>>'>> >>Sleepy>
+    >>OR>>'>> J OU EUR>
+    >>OR>>' >>KARMATIMBO CASTINGZ>
+    >>gMen>>.>>SPELER>
+    >>gMen>>.>>SLEEPER>
+    >>gMen>>.>>SLAPER>
+   2nd Round
+    >>OR>>'>> >>Sleepy>
+    >>OR>>'>> J OU EUR>
+    >>OR>>' >>KARMATIMBO CASTINGZ>
+    >>gMen>>.>>SPELER>
+    >>gMen>>.>>SLEEPER>
+    >>gMen>>.>>SLAPER>
+299
+  supply
+   1st Round
+    >>e!>> SkyLine>
+    >>e! >>promrn>
+    >>e!>> Baczo>
+    >>FoW >>* >>uPLI >>:>>D>
+        e! SkyLine was killed by FoW * uPLI :D's Thompson (8:30)
+        e! Baczo was killed by FoW * uPLI :D's Thompson (8:29)
+        e! promrn was killed by FoW * uPLI :D's Thompson (8:27)
+    >>FoW >>* >>mAkSio >>:D>
+    >>FoW >^+* >vj7o >>:>>D>
+       e! SkyLine was killed by FoW * vj7o :D's Thompson (4:54)
+       e! Baczo was blasted by FoW * vj7o :D's support fire (4:53)
+       e! promrn was killed by FoW * vj7o :D's Thompson (4:49)
+   2nd Round
+    >>e!>> SkyLine>
+    >>e! >>promrn>
+    >>e!>> Baczo>
+    >>FoW >>* >>uPLI >>:>>D>
+    >>FoW >>* >>mAkSio >>:D>
+    >>FoW >^+* >vj7o >>:>>D>
+  braundorf_b4
+   1st Round
+    >>e!>> SkyLine>
+    >>e! >>promrn>
+    >>e!>> Baczo>
+    >>FoW >>* >>uPLI >>:>>D>
+    >>FoW >>* >>mAkSio >>:D>
+    >>FoW >^+* >vj7o >>:>>D>
+   2nd Round
+    >>e!>> SkyLine>
+    >>e! >>promrn>
+    >>e!>> Baczo>
+    >>FoW >>* >>uPLI >>:>>D>
+    >>FoW >>* >>mAkSio >>:D>
+    >>FoW >^+* >vj7o >>:>>D>
+  sp_delivery_te
+   1st Round
+    >>e!>> SkyLine>
+    >>e! >>promrn>
+    >>e!>> Baczo>
+    >>FoW >>* >>uPLI >>:>>D>
+    >>FoW >>* >>mAkSio >>:D>
+    >>FoW >^+* >vj7o >>:>>D>
+   2nd Round
+    >>e!>> SkyLine>
+        FoW * vj7o :D was killed by e! SkyLine's MP40 (9:14)
+        FoW * s1lent :D was killed by e! SkyLine's MP40 (9:10)
+        FoW * uPLI :D was killed by e! SkyLine's MP40 (9:09)
+    >>e! >>promrn>
+        FoW * vj7o :D was killed by e! promrn's MP40 (9:04)
+        FoW * s1lent :D was killed by e! promrn's MP40 (9:02)
+        FoW * uPLI :D was killed by e! promrn's MP40 (8:59)
+        FoW * s1lent :D was killed by e! promrn's MP40 (8:57)
+    >>e!>> Baczo>
+    >>FoW >>* >>uPLI >>:>>D>
+    >>FoW >>* >>mAkSio >>:D>
+    >>FoW >^+* >vj7o >>:>>D>
+342
+  sw_goldrush_te
+   1st Round
+    >>FoW >>* >>s1lent >>:D>
+        eph ddhd :6 was exploded by FoW * s1lent :D's grenade (11:49)
+        eph R1VAZJE :o) was killed by FoW * s1lent :D's MP40 (11:45)
+        eph R.Falcao. was killed by FoW * s1lent :D's MP40 (11:41)
+        eph ddhd :6 was killed by FoW * s1lent :D's MP40 (2:11)
+        eph R.Falcao. was killed by FoW * s1lent :D's Luger 9mm (2:07)
+        eph ddhd :6 was killed by FoW * s1lent :D's Luger 9mm (2:04)
+    >>FoW >>* >>vj7o >>:>>D>
+    >>FoW >>* >>uPLI >>:>>D>
+    >>eph >>R1VAZJE >>:o)>
+    >>eph >>R.Falcao>>.>
+    >>eph >>ddhd >>:6>
+   2nd Round
+    >>FoW >>* >>s1lent >>:D>
+    >>FoW >>* >>vj7o >>:>>D>
+    >>FoW >>* >>uPLI >>:>>D>
+    >>eph >>R1VAZJE >>:o)>
+    >>eph >>R.Falcao>>.>
+    >>eph >>ddhd >>:6>
+        FoW * uPLI :D was killed by eph ddhd :6's MP40 (8:16)
+        FoW * vj7o :D was killed by eph ddhd :6's Thompson (8:13)
+        FoW * s1lent :D was killed by eph ddhd :6's Thompson (8:12)
+  supply
+   1st Round
+    >>FoW >>* >>s1lent >>:D>
+    >>FoW >>* >>vj7o >>:>>D>
+    >>FoW >>* >>uPLI >>:>>D>
+    >>eph >>R1VAZJE >>:o)>
+    >>eph >>R.Falcao>>.>
+    >>eph >>ddhd >>:6>
+   2nd Round
+    >>FoW >>* >>s1lent >>:D>
+    >>FoW >>* >>vj7o >>:>>D>
+    >>FoW >>* >>uPLI >>:>>D>
+    >>eph >>R1VAZJE >>:o)>
+    >>eph >>R.Falcao>>.>
+    >>eph >>ddhd >>:6>
+300
