@@ -61,11 +61,13 @@ int main(void)
 		prefix("abcde","abcdef"),prefix("abcde","abcde"),prefix("ab","abc"));
 	*/
 int year_in;
+int month_in;
 printf("Enter year: ");scanf("%d",&year_in);
+printf("Enter month: ");scanf("%d",&month_in);
 
 for (int year=year_in;year<2014;year++) 
 {
-for (int month=1;month<13;month++)
+for (int month=month_in;month<13;month++)
 {
 	printf("%d %d\n",month,year);
 	char smonth[3];
@@ -160,9 +162,10 @@ for (int month=1;month<13;month++)
 			else 
 			{
 				fprintf(out,"</div>\n");
-				continue;
+				
 				free(ss.ptr);
 				curl_easy_cleanup(curl);
+				continue;
 			}
 
 			int spree=3;
@@ -304,9 +307,14 @@ for (int month=1;month<13;month++)
 		curl_easy_cleanup(curl);
 		}
 		/* always cleanup */ 
+		for (int i=0;i<url_count;i++) free(url[i]);
+		free(url);
 		fclose(out);
 	  }
+	  //free
+	  
   }
+  month_in=1;
   }
   return 0;
 }
