@@ -62,8 +62,34 @@ int main(void)
 	*/
 int year_in;
 int month_in;
-printf("Enter year: ");scanf("%d",&year_in);
-printf("Enter month: ");scanf("%d",&month_in);
+printf("tip: press ctrl+c to stop programm\n");
+printf("Enter start year: ");
+if (scanf("%d",&year_in)!=1) 
+{
+	printf("wrong year\n");
+	return 1;
+}
+printf("Enter start month: ");
+if ((scanf("%d",&month_in)!=1)||month_in<1||month_in>12)
+{
+	printf("wrong month\n");
+	return 1;
+}
+
+int spree;
+int diff;
+
+printf("Enter min killing spree: ");
+if ((scanf("%d",&spree)!=1)||spree<3)
+{
+	printf("wrong spree input\n");
+}
+
+printf("Enter time difference: ");
+if ((scanf("%d",&diff)!=1)||diff<0)
+{
+	printf("wrong time input\n");
+}
 
 for (int year=year_in;year<2014;year++) 
 {
@@ -141,6 +167,7 @@ for (int month=month_in;month<13;month++)
 			curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, writefunc);
 			curl_easy_setopt(curl, CURLOPT_WRITEDATA, &ss);
 			/* Perform the request, res will get the return code */ 
+			printf("getting http of %s\n",url[url_i]);
 			res = curl_easy_perform(curl);
 			/* Check for errors */ 
 			if(res != CURLE_OK)
@@ -152,7 +179,7 @@ for (int month=month_in;month<13;month++)
 	
 
 			//parsing
-			printf("parsing...%d %d [%d] %s\n",month,year,url_i,url[url_i]);
+			printf("parsing...%d %d [%d/%d] %s\n",month,year,url_i+1,url_count,url[url_i]);
 
 			fprintf(out,"<div style=\"border: 2px solid #FFD292;border-radius: 10px;-moz-border-radius: 10px;\">\n");
 			fprintf(out,"<a style=\"color:black\" href=\"%s\">%s</a></br>\n",url[url_i],url[url_i]);
@@ -167,9 +194,6 @@ for (int month=month_in;month<13;month++)
 				curl_easy_cleanup(curl);
 				continue;
 			}
-
-			int spree=3;
-			int diff=4;
 
 
 			int count=0;
@@ -305,9 +329,9 @@ for (int month=month_in;month<13;month++)
 			fprintf(out,"</div>\n",count);
 		free(ss.ptr);
 		curl_easy_cleanup(curl);
+		free(url[url_i]);
 		}
 		/* always cleanup */ 
-		for (int i=0;i<url_count;i++) free(url[i]);
 		free(url);
 		fclose(out);
 	  }
@@ -315,6 +339,9 @@ for (int month=month_in;month<13;month++)
 	  
   }
   month_in=1;
+
+  //if (year==year_end&&month==month_end) 
+
   }
   return 0;
 }
